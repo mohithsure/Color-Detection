@@ -3,7 +3,9 @@ Color Detection
 **Project Overview**
 ----------------
 This Python-based application loads an image and lets the user interact with it. Upon a double-click, it captures the pixProject Structure
+
 -----------------
+
 Color-Detection/
 
 ■■■ color_detection.py # Main application script
