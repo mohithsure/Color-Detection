@@ -5,8 +5,11 @@ Color Detection
 This Python-based application loads an image and lets the user interact with it. Upon a double-click, it captures the pixProject Structure
 -----------------
 Color-Detection/
+
 ■■■ color_detection.py # Main application script
+
 ■■■ colors.csv # Color dataset (names, hex, RGB)
+
 ■■■ colorpic.jpg # Input image for color detection
 
 **System Requirements**
